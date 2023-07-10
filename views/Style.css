@@ -1,0 +1,97 @@
+*{
+    box-sizing:border-box;
+   font-family: cursive;
+   }
+       
+   body{
+       margin:0px;
+       border: 0px;
+       background-image:url("https://cutewallpaper.org/22/gym-men-wallpapers/108653567.jpg") ;
+   }
+   .head{
+       display: inline-block;
+       /* border:2px solid green; */
+   }
+
+   #left{
+       width: 6%;
+       margin:20px 0px;
+   }
+
+   #mid{
+       width: 54%;
+       margin:20px 0px;
+   }
+
+   #right{
+       width: 15%;
+       margin:20px 0px;
+   }
+
+   .navbar li{
+      display:inline-block;
+      margin:24px 13px;
+      font-size: 31px;
+   }
+
+   .navbar li a{
+       color: white;
+       text-decoration: none;
+   }
+
+   .navbar li a:hover{
+       color:rgb(216, 30, 10);
+       text-decoration: underline;
+   }
+
+   #left img{
+       width:80px;
+       height: 80px;
+   }
+
+   .btn{
+       margin:0px 10px;
+       color:white;
+       background-color: rgb(216, 30, 10);
+       font-size: 16px;
+       border-radius: 5px;
+       border: 0px;
+       cursor: pointer;
+
+   }
+
+   .btn:hover{
+       color:rgb(216, 30, 10);
+       background-color: white;
+       border: 0px;
+   }
+
+   .container {
+   border: 2px solid white;
+   margin: 8px 158px;
+   padding: 55px;
+   width: 43%;
+   border-radius: 28px;
+  }
+
+  .form-group input {
+   font-family: cursive;
+   text-align: center;
+   display: block;
+   width: 508px;
+   padding: 1px;
+   margin: 11px auto;
+   font-size: 25px;
+   border-radius: 8px;
+  }
+
+  .container h1 {
+   text-align: center;
+   color: white;
+}
+
+.container button{
+   width:100px;
+   height: 30px;
+   margin: 0px 6px;
+}
